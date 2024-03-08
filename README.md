@@ -8,7 +8,7 @@ STACK:
 
 <h2>HOW TO BUILD</h2>
 
-add to ./include dir with boost (https://sourceforge.net/projects/boost/files/boost/) and crow_all.h (https://github.com/CrowCpp/Crow/releases)
+add to ./include dir with boost (https://sourceforge.net/projects/boost/files/boost/) and crow_all.h (https://github.com/CrowCpp/Crow/releases) and mysql-connector-c++-8.3.0 folder
 
 afther that:
 ```
